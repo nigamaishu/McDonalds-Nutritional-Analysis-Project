@@ -27,4 +27,4 @@ To run this project on your local machine:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Mcdonalds-Nutritional-Analysis.git
+   git clone https://github.com/nigamaishu/Mcdonalds-Nutritional-Analysis.git
